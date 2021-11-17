@@ -2,7 +2,7 @@ import axios from 'axios'
 import { RequestTypes, ResponseTypes } from './types'
 import { MeetingType, Preset } from '@src/types'
 
-axios.defaults.baseURL = 'http://localhost:4000'
+axios.defaults.baseURL = 'https://dyte-sample.herokuapp.com'
 axios.defaults.headers.post['Content-Type'] = 'application/json'
 
 export const createMeeting = async (
