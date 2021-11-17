@@ -41,7 +41,11 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+ <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot1.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot2.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot6.png" width=250 height=425>
+ <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot7.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot8.png" width=250 height=425>
+
+
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -49,9 +53,10 @@ Here's a blank template to get started:
 
 ### Built With
 
-- []()
-- []()
-- []()
+Primarily 
+- [x] Dyte Sdk
+- [x] React Native
+- [x] React-native-webrtc
 
 <!-- GETTING STARTED -->
 
@@ -74,7 +79,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dyte-in/docs-template.git
+https://github.com/dyte-in/react-native-sample
 ```
 
 2. Install NPM packages
@@ -83,13 +88,19 @@ git clone https://github.com/dyte-in/docs-template.git
 npm install
 ```
 
+3. Pod Install 
+
+```
+cd ios && pod install
+```
+
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)._
+_For more examples, please refer to the [Documentation](https://docs.dyte.io/react-native/quickstart)._
 
 <!-- CHANGELOG -->
 
@@ -101,13 +112,13 @@ See [CHANGELOG](./CHANGELOG.md).
 
 ## Roadmap
 
-See the [open issues](https://github.com/dyte-in/docs-template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/dyte-in/react-native-sample/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Sincere thanks to all [our contributors](Thank you, [contributors](https://github.com/dyte-in/docs-template/graphs/contributors)!)!
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Sincere thanks to all [our contributors](Thank you, [contributors](https://github.com/dyte-in/react-native-sample/graphs/contributors)!)!
 
 You are requested to follow the contribution guidelines specified in [CONTRIBUTING.md](./CONTRIBUTING.md) and code of conduct at [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) while contributing to the project :smile:.
 
