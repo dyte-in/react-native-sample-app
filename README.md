@@ -4,12 +4,12 @@
     <img src="https://dyte-uploads.s3.ap-south-1.amazonaws.com/dyte-logo-dark.svg" alt="Logo" width="80">
   </a>
 
-  <h2 align="center">docs-template by dyte</h3>
+  <h2 align="center">React Native Sample App by dyte</h3>
 
   <p align="center">
-    ADD_DESCRIPTION_HERE
+   Sample App to demonstrate Dyte SDK in react native
     <br />
-    <a href="https://docs.dyte.io"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.dyte.io/react-native/quickstart"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://app.dyte.io">View Demo</a>
@@ -52,6 +52,7 @@ Primarily
 - [x] Dyte Sdk
 - [x] React Native
 - [x] React-native-webrtc
+- :heart: 
 
 <!-- GETTING STARTED -->
 
@@ -89,7 +90,14 @@ npm install
 cd ios && pod install
 ```
 
-<!-- USAGE EXAMPLES -->
+#### Run ios 
+
+`react-native run-ios` 
+
+#### Run android 
+
+`react-native run-android`
+
 
 ## Usage
 
