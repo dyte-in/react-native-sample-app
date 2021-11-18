@@ -41,8 +41,8 @@
 
 ## About The Project
 
- <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot1.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot2.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot6.png" width=250 height=425>
- <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot7.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample/blob/main/screenshot8.png" width=250 height=425>
+ <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot1.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot2.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot6.png" width=250 height=425>
+ <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot7.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot8.png" width=250 height=425>
 
 
 
@@ -75,7 +75,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-https://github.com/dyte-in/react-native-sample
+https://github.com/dyte-in/react-native-sample-app
 ```
 
 2. Install NPM packages
@@ -115,19 +115,18 @@ See [CHANGELOG](./CHANGELOG.md).
 
 ## Roadmap
 
-See the [open issues](https://github.com/dyte-in/react-native-sample/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/dyte-in/react-native-sample-app/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Sincere thanks to all [our contributors](Thank you, [contributors](https://github.com/dyte-in/react-native-sample/graphs/contributors)!)!
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Sincere thanks to all [our contributors](Thank you, [contributors](https://github.com/dyte-in/react-native-sample-app/graphs/contributors)!)!
 
 You are requested to follow the contribution guidelines specified in [CONTRIBUTING.md](./CONTRIBUTING.md) and code of conduct at [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) while contributing to the project :smile:.
 
 ## Support
 
-(Ask for support or sponsorships by providing links or just add a simple message)
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
@@ -143,7 +142,7 @@ Distributed under the Apache License, Version 2.0. See [`LICENSE`](./LICENSE) fo
 
 ## About
 
-`react-native-sample` is created & maintained by Dyte, Inc. You can find us on Twitter - [@dyte_io](twitter.com/dyte_io) or write to us at `dev [at] dyte.io`.
+`react-native-sample-app` is created & maintained by Dyte, Inc. You can find us on Twitter - [@dyte_io](twitter.com/dyte_io) or write to us at `dev [at] dyte.io`.
 
 The names and logos for Dyte are trademarks of Dyte, Inc.
 
