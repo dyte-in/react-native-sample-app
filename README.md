@@ -41,8 +41,8 @@
 
 ## About The Project
 
- <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot1.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot2.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot6.png" width=250 height=425>
- <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot7.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshot8.png" width=250 height=425>
+ <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot1.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot2.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot6.png" width=250 height=425>
+ <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot7.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot8.png" width=250 height=425>
 
 
 
