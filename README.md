@@ -41,18 +41,17 @@
 
 ## About The Project
 
- <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot1.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot2.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot6.png" width=250 height=425>
- <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot7.png" width=250 height=425>  <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot8.png" width=250 height=425>
-
-
+<img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot1.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot2.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot3.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot4.png" width=250 height=425><img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot5.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot6.png" width=250 height=425>
+<img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot7.png" width=250 height=425> <img src="https://github.com/dyte-in/react-native-sample-app/blob/main/screenshots/screenshot8.png" width=250 height=425>
 
 ### Built With
 
-Primarily 
+Primarily
+
 - [x] Dyte Sdk
 - [x] React Native
 - [x] React-native-webrtc
-- :heart: 
+- :heart:
 
 <!-- GETTING STARTED -->
 
@@ -78,32 +77,47 @@ npm install npm@latest -g
 https://github.com/dyte-in/react-native-sample-app
 ```
 
-2. Install NPM packages
+2. cd
+
+```sh
+cd dyte-react-native-sample-app
+
+```
+
+3. Install NPM packages
 
 ```sh
 npm install
 ```
 
-3. Pod Install 
+4. Pod Install
 
 ```
 cd ios && pod install
 ```
 
-#### Run ios 
+#### Run ios
 
-`react-native run-ios` 
+`npx react-native run-ios`
 
-#### Run android 
+#### Run android
 
-`react-native run-android`
-
+`npx react-native run-android`
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+For examples, please refer to the [Documentation](https://docs.dyte.io/react-native/quickstart).
 
-_For more examples, please refer to the [Documentation](https://docs.dyte.io/react-native/quickstart)._
+## Solving common problems:
+
+- Facing issues with conflicts among dependencies of react-native?
+
+  - Try running `npm update` followed by `npm i` [[ source ](https://stackoverflow.com/questions/71422801/npm-install-didnt-update-the-dependencies)]
+    <br/><br/>
+
+- Receiving errors regarding class file major version?
+
+  - Try setting JDK path to a react-native supported version. For setting up a particular version one can set `org.gradle.java.home=<path>` in gradle.properties file [[ source ](https://stackoverflow.com/questions/57338968/error-with-react-native-run-android-after-upgrade-to-react-native-version-0-60-4)]
 
 <!-- CHANGELOG -->
 
@@ -126,7 +140,6 @@ Contributions are what make the open source community such an amazing place to b
 You are requested to follow the contribution guidelines specified in [CONTRIBUTING.md](./CONTRIBUTING.md) and code of conduct at [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) while contributing to the project :smile:.
 
 ## Support
-
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
